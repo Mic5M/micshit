@@ -20,7 +20,7 @@ Info:
 /cinemaOff = quit cinema mode
 
 [Images]
-https://imgur.com/682LUd3
+![alt text][img]https://i.imgur.com/682LUd3.png[/img]
 
 
 
