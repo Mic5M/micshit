@@ -11,16 +11,24 @@ Info:
 /cinemaOff = quitar modo cinema
 s
 [ENG]
+
 Fuck u guiris :)
 
 Info:
+
 /hudOn = put hud
+
 /hudOff = quit hud
+
 /cinemaOn = put cinema mode
+
 /cinemaOff = quit cinema mode
 
+
+
 [Images]
-![alt text][img]https://i.imgur.com/682LUd3.png[/img]
+
+![alt text](https://i.imgur.com/682LUd3.png)
 
 
 
