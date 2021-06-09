@@ -5,11 +5,16 @@
 Creando mierda para FiveM nada mas.
 
 Info:
+
 /hudOn = poner hud
+
 /hudOff = quitar hud
+
 /cinemaOn = poner modo cinema
+
 /cinemaOff = quitar modo cinema
-s
+
+
 [ENG]
 
 Fuck u guiris :)
@@ -33,5 +38,7 @@ Info:
 
 
 #AD
+
 !Mic#2957
+
 discord.gg/EFz9ttdVAp
